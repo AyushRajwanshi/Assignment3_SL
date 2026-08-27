@@ -1,0 +1,10 @@
+# Ignore all MP4 and MKV movie files
+*.mp4
+*.mkv
+
+# Ignore a specific folder full of assets you don't need to track
+/large-assets/
+
+# Ignore system configuration files
+.DS_Store
+Thumbs.db
